@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://sondve.github.io/lwb.github.io/</id>
+    <title>Gridea</title>
+    <updated>2025-03-05T09:14:52.163Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://sondve.github.io/lwb.github.io/"/>
+    <link rel="self" href="https://sondve.github.io/lwb.github.io/atom.xml"/>
+    <subtitle>温故而知新</subtitle>
+    <logo>https://sondve.github.io/lwb.github.io/images/avatar.png</logo>
+    <icon>https://sondve.github.io/lwb.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2025, Gridea</rights>
+    <entry>
+        <title type="html"><![CDATA[Spatiotemporal Pattern, Evolutionary Trend, and Driving Forces Analysis of Ecological Quality in the Irtysh River Basin (2000–2020)]]></title>
+        <id>https://sondve.github.io/lwb.github.io/post/spatiotemporal-pattern-evolutionary-trend-and-driving-forces-analysis-of-ecological-quality-in-the-irtysh-river-basin-2000-2020/</id>
+        <link href="https://sondve.github.io/lwb.github.io/post/spatiotemporal-pattern-evolutionary-trend-and-driving-forces-analysis-of-ecological-quality-in-the-irtysh-river-basin-2000-2020/">
+        </link>
+        <updated>2025-03-04T18:41:07.000Z</updated>
+        <content type="html"><![CDATA[<p><strong>Abstract</strong>!<br>
+Considering climate change and increasing human impact, ecological quality and its assessment have also received increasing attention. Taking the Irtysh River Basin as an example, we utilize multi-period MODIS composite imagery to obtain five factors (greenness, humidity, heat, dryness, and salinity) to construct the model for the amended RSEI (ARSEI) based on the Google Earth Engine platform. We used the Otsu algorithm to generate dynamic thresholds to improve the accuracy of ARSEI results, performed spatiotemporal pattern and evolutionary trend analysis on the results, and explored the influencing factors of ecological quality. Results indicate that: (1) The ARSEI demonstrates a correlation exceeding 0.88 with each indicator, offering an efficient approach to characterizing ecological quality. The ecological quality of the Irtysh River Basin exhibits significant spatial heterogeneity, demonstrating a gradual enhancement from south to north. (2) To evaluate the ecological quality of the Irtysh River Basin, the ARSEI was utilized, exposing a stable condition with slight fluctuations. In the current research context, the ecological quality of the Irtysh River Basin watershed area is projected to continuously enhance in the future. This is due to the constant ecological protection and management initiatives carried out by countries within the basin. (3) Precipitation, soil pH, elevation, and human population are the main factors influencing ecological quality. Due to the spatial heterogeneity, the driving factors for different ecological quality classes vary. Overall, the ARSEI is an effective method for ecological quality assessment, and the research findings can provide references for watershed ecological environment protection, management, and sustainable development.<br>
+<img src="https://sondve.github.io/lwb.github.io//post-images/1741164299141.jpg" alt="Overall technical flow chart" loading="lazy"></p>
+]]></content>
+    </entry>
+</feed>
